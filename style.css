@@ -1,6 +1,12 @@
 label{
     cursor: pointer;
+    display: flex;
+    align-items: center;
 }
 img{
-    width: 200px;
+    width: 100px;
+}
+#render{
+    display: flex;
+    align-items: center;
 }
